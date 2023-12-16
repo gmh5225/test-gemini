@@ -1,4 +1,4 @@
-# test-genmini
+# test-gemini
 
 ```
 pip install google-generativeai
